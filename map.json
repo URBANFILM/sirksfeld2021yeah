@@ -120,20 +120,20 @@
                  "height":69.3333333333334,
                  "id":3,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsiTrigger: onaction"
+                        }],
                  "rotation":0,
-                 "type":"coremeet.workadventure.re",
+                 "type":"",
                  "visible":true,
                  "width":64,
                  "x":560,
                  "y":402.666666666667
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":""
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
