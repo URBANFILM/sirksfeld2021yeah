@@ -117,22 +117,11 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":0,
-                 "id":1,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":589.333333333333,
-                 "y":434.666666666667
-                }, 
-                {
                  "height":69.3333333333334,
                  "id":3,
                  "name":"",
                  "rotation":0,
-                 "type":"",
+                 "type":"coremeet.workadventure.re",
                  "visible":true,
                  "width":64,
                  "x":560,
