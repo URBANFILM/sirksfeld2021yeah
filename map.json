@@ -115,30 +115,36 @@
          "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
+         "objects":[],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "color":"#005cc9",
+         "draworder":"topdown",
+         "id":16,
+         "name":"jitsiRoom",
          "objects":[
                 {
-                 "height":69.3333333333334,
-                 "id":3,
+                 "height":92,
+                 "id":4,
                  "name":"",
-                 "properties":[
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"jitsiTrigger: onaction"
-                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":64,
-                 "x":560,
-                 "y":402.666666666667
+                 "width":110.666666666667,
+                 "x":549.333333333333,
+                 "y":396
                 }],
          "opacity":1,
          "properties":[
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"jitsiTrigger: onaction"
+                 "value":""
                 }],
          "type":"objectgroup",
          "visible":true,
@@ -163,8 +169,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":16,
- "nextobjectid":4,
+ "nextlayerid":17,
+ "nextobjectid":5,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
