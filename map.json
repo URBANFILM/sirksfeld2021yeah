@@ -149,7 +149,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/Sirksrixfeld\/Sirksrixfeld2021-gh-pages\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":544,
          "imagewidth":544,
          "margin":1,
@@ -874,7 +874,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"..\/Sirksrixfeld\/Sirksrixfeld2021-gh-pages\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":272,
          "imagewidth":272,
          "margin":1,
