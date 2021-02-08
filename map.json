@@ -109,7 +109,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":" sirksfeld2021yeah\/larrymucke.mp3 "
+                 "value":"larrymucke.mp3 "
                 }],
          "type":"tilelayer",
          "visible":true,
