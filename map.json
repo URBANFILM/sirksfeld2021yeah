@@ -40,7 +40,7 @@
                  "value":"..\/Floor1\/floor1.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -58,7 +58,7 @@
                  "value":"https:\/\/www.imagefilmexpress.de\/speisesaal.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -76,7 +76,7 @@
                  "value":"https:\/\/www.imagefilmexpress.de\/larrymucke.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -94,7 +94,7 @@
                  "value":"https:\/\/www.imagefilmexpress.de\/bear.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -112,7 +112,7 @@
                  "value":"https:\/\/www.imagefilmexpress.de\/garden.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -130,7 +130,7 @@
                  "value":"https:\/\/www.imagefilmexpress.de\/country.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -148,7 +148,7 @@
                  "value":"https:\/\/www.imagefilmexpress.de\/mannah.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -268,7 +268,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
