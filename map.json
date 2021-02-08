@@ -109,7 +109,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"larrymucke.mp3 "
+                 "value":"https:\/\/github.com\/URBANFILM\/sirksfeld2021yeah\/tree\/gh-pages\/larrymucke.mp3 "
                 }],
          "type":"tilelayer",
          "visible":true,
