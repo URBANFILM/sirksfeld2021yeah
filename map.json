@@ -283,12 +283,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.imagefilmexpress.de\/canvas-tetris-master\/index.html"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":""
+                 "value":"https:\/\/www.urbanfilm.de\/canvas-tetris-master\/index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
