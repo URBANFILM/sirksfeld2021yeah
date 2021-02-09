@@ -284,6 +284,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.echalk.co.uk\/amusements\/Games\/Tetrominoes\/tetrominoes.html"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
