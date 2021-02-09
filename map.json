@@ -301,7 +301,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.urbanfilm.de\/Snake-Game-HTML5-master"
+                 "value":"https:\/\/www.urbanfilm.de\/Snake-Game-HTML5-master\/index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
